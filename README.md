@@ -1,5 +1,5 @@
 # Knowledge
-
+длдл
 # 18.10.2021 - New start
 Массивы в Java
 ```
